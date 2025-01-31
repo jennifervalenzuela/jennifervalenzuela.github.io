@@ -10,7 +10,7 @@ Hello! This is my new site.
 # Heading 1
 ## Heading 2
 ### Heading 3
-#### HEading 4
+#### Heading 4
 
 Text here
 
