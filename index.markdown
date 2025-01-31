@@ -5,11 +5,11 @@
 layout: home
 ---
 
-Hello! THis is my new site.
+Hello! This is my new site.
 
 # Heading 1
 ## Heading 2
-### HEading 3
+### Heading 3
 #### HEading 4
 
 Text here
