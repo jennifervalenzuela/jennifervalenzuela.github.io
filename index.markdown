@@ -5,24 +5,42 @@
 layout: home
 ---
 
-This site aims to document the attacks on memorial sites and their members or representatives which honor the victims of the violence that occurred in Peru from 1980 to 2000, particularly in the cities of Lima and Ayacucho. I trace these attacks from 2007 to 2025. Over the years, the severity of the attacks has increased. As successive governments have shifted further to the far-right or ultra-right, these memorials have faced growing hostility due to their content and the memories of the victims they represent. This trend highlights a pattern of censorship and increasingly aggressive strategies used by the ultra-right to control which memories are acknowledged and discussed. The perpetrators of these attacks, the majority of which are Congresspeople, are attempting to reshape the narrative to align with the perspective of the victors while downplaying the experiences of Indigenous groups and communities that suffered during this period of violence.
+This site aims to document the attacks on memorial sites and their members or representatives which honor the victims of the violence that occurred in Peru from 1980 to 2000, particularly in the cities of Lima and Ayacucho. I trace these attacks from 2007 to 2025. 
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
+As successive governments have shifted further to the far-right or ultra-right, these memorials have faced growing hostility due to their content and the memories of the victims they represent. This trend highlights a pattern of censorship and increasingly aggressive strategies used by the ultra-right to control which memories are acknowledged and discussed. The perpetrators of these attacks, the majority of which are Congresspeople, are attempting to reshape the narrative to align with the perspective of the victors while downplaying the experiences of Indigenous groups and communities that suffered during this period of violence.
 
-*Italics* **Bold**
+![alt text](https://elbuho.pe/wp-content/uploads/2023/03/Lum-censura.webp)
 
-HEllo
+>Citizens from different groups and communities protesting in front of the Municipality of Miraflores in Lima, Peru after the abrupt closure of the Place of Memory, Tolerance and Inclusion (LUM) on March 29th, 2023.
 
-LInks [THis is the text](https://google.com)
+# Introduction
+After ten gruesome years of violence and a charged political landscape that was Peru’s internal war from 1980 to 2000, Peruvians were left marked by this gruesome period of violence. The Peruvian Truth and Reconciliation Commission (CVR) was ratified in 2001 by former President Alejandro Toledo. The CVR was established to investigate and make public the truth about these twenty years of violence. Their mandate was to analyze the origins of the violence, document human rights violations, and provide reparation recommendations to the victims affected by the violence of the State, the Shining Path (SL), and the Tupac Amaru Revolutionary Movement (MRTA). The CVR published its Final Report in 2003, which concluded by providing reparation recommendations such as the establishment of monuments and museums to honor the victims of violence.  However, the creation of these memorial places has faced significant opposition and criticism, which persists as I am writing today.
 
-![alt text](https://neogranadina.org/images/neogranadina.png)
+To get a closer look at the attacks against the museums and monuments that were created to memorialize the victims of the violence, I focus on three memorial places and, in some cases, attacks on individuals insofar as representatives or members of these institutions, coue no se repita” of the Asociación Nacional de Familiares de Secuestrados, Detenidos y Desaparecidos del Perú (ANFASEP) in Ayacucho; the monument El Ojo Que Llora in Lima; and the Lugar de la Memoria, La Tolerancia y La Inclusión Social (LUM) also in Lima, all dedicated to commemorating the victims of violence. As we move forward into the present, more often than not, these attacks have turned into a form of censorship of the past regarding the internal war. The censorship against memorial places perpetuated by ultra-right Congresspeople, military groups, and ultra-right organizations attempt to reshape or silence narratives about the Internal Armed Conflict that challenge state crimes, expose military abuses, or threaten the reputation of politicians who were in power during the period of violence. In many cases, the attacks censor the function of the memorial place, the memory it displays, or the members and representatives who work there. Over the last eighteen years, between 2007 and 2025, the censorship against memorial places dedicated to the war in Lima and Ayacucho has increased in frequency and intensity.
+
+----
+
+# Background
+## Peruvian civil war from 1980 to 2000
+
+To begin, it's important to provide some background on the war to understand the context of the memories of victims and aggressors that are being censored in the present. Many of these censorship cases are perpetuated by Congress members, particularly those with connections to the past. On May 17th, 1980, the Communist Party of Peru-Shining Path declared war against the Peruvian state by burning a ballot box in Chuschi, Ayacucho. On the same day as the first democratic elections, after twelve years of military dictatorship, it would be the first time everyone had the right to vote. While little attention was given to the Shining Path then, newly elected President Fernando Belaunde Terry paid no attention to this group, calling them “just another group of cattle rustlers.” As the situation intensified in 1983, a group of journalists who were massacred in Uchuraccay made Limenos realize the intensity of the situation in Ayacucho. With this heightened violence and a new “revolutionary” group on the scene, the Tupac Amaru Revolutionary Movement (MRTA), came the deployment of the armed forces with no training in combating such groups, and the disappearance and human rights abuses started to increase. In 1982, this led to the creation of the Asociación Nacional de Familiares de Secuestrados, Detenidos y Desaparecidos del Perú (ANFASEP) in Ayacucho by a group of mothers searching for their kidnapped relatives.
+
+By the time President Alberto Fujimori was elected, his promises to combat this violence and restore the economic situation, people viewed him as the last option and only hope to stop the violence plaguing the country. In 1992, he made the decision to dissolve Congress and launched a self-coup. He assumed full legislative and judicial power and suspended much of the Constitution. Months later, the intelligence work of the DIRCOTE led to the capture of the leaders from the MRTA and the Shining Path, including Shining Path leader Abimael Guzman. After winning a second term in 2000, Fujimori attempted to run for a third term, where he faced allegations of widespread corruption and crimes against humanity during his ten-year government. Subsequently, Fujimori fled to Japan, where he submitted his presidential resignation via fax. Peru's congress refused to accept his resignation and voted to remove him from office.
+
+timeline here
+
+# *El Ojo que Llora*
+On August 28th, 2005, the Memorial of El Ojo que Llora (The Eye that Cries) was inaugurated in the district of Jesus Maria in Lima on the second anniversary of the Peruvian Truth and Reconciliation Commission’s (CVR) delivery of the Final Report. The memorial is a sculpture created by internationally renowned sculptor, Dutch-Peruvian artist Lika Mutal. The memorial covers 1500 square meters of space, with an irregular-shaped stone at the center and a second, smaller rock inside representing the eye. A small stream of water falls from the smaller rock, creating the impression of a stream of tears that then fall into a small pool of water below, symbolizing the continuous and endless mourning of lives lost. The central stone is surrounded by eleven circular rock bands, forming a labyrinth path. It is filled with 42,000 smaller stones, 26,000 of which include the victim's name, date of death, and sometimes their age, organized alphabetically. Mutal’s idea was that this would be an “interactive sculpture” so visitors could travel through the paths to eventually reach the central stone, a winding path like the ones relatives have gone through in search of the truth.
+
+In its first two years, the monument faced two significant controversies, The first involved a ruling by the Inter-American Court of Human Rights (CIDH) in the case of Miguel Castro Castro Prison v. Peru. This case addressed the extrajudicial killing of 42 members of the Shining Path by state forces. It recommended that these ‘victims’ be memorialized as a form of compensation, suggesting their inclusion in the monument. The second controversy arose in 2007 when the monument was vandalized following the extradition and trial of Alberto Fujimori, who was president during the Miguel Castro Castro's prison raid. These two major controversies marked the beginning of a series of attacks against the monument over the next eighteen years.
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1sveKXJqwaiyVbToCIfUudpL7Big7KhCYgFRr_GG5N9c&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+>This timeline details the date of the attack and the kind of aggression made against it.
+
 
 Text here
 
-<iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1MrBryK-2eK1i9KVxJQwjDF1b0ocCm9QA00tR7KLKN3Y&font=Default&lang=en&initial_zoom=2&height=650" width="100%" height="650" frameborder="0"></iframe>
+
                                 
 
 More text here
