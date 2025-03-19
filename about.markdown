@@ -10,5 +10,5 @@ My research analyzes the physical and verbal attacks spanning the years 2007 to 
 
 Outside academic commitments, I enjoy reading, watching movies, and film photography. My outdoor hobbies include running, pickleball, and scenic walks to shoot some film.
 
-![alt text](path to cartagenaonfilm.jpg)
+![alt text](cartagenaonfilm.jpg)
 Tierra Bomba Island, Cartagena, Colombia. June 2024.
