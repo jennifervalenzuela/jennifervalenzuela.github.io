@@ -6,4 +6,4 @@ layout: home
 ---
 ![alt text](profilepicture.JPG)
 
-Hello! My name is Jennifer Valenzuela, and I am a graduate student with UCSB’s LAIS program.
+Hello! My name is Jennifer Valenzuela. Welcome to my website :)
