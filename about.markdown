@@ -9,3 +9,6 @@ My name is Jennifer Valenzuela, and I am a Master’s student in the Latin Ameri
 My research analyzes the physical and verbal attacks spanning the years 2007 to 2025 surrounding memory places and the members and representatives of the Place of Memory Tolerance and Social Inclusion (LUM), the monument The Eye that Cries, as well as the Museum of Memory created by the National Association of Relatives of Kidnapped, Detained and Disappeared of Peru (ANFASEP), the first museum of its kind in Peru. I aim to provide insight into how the attacks against these memory places reflect ultra-right conservative groups and organizations’ attempts to reshape or silence narratives about the Internal Armed Conflict that challenge state crimes, expose military abuses, or threaten the reputation of politicians who were in power during the period of violence. It also explores the implications for the future of memorial sites that prioritize the experiences of victims and their testimonies, focusing on the mission to preserve truth and justice in Peru.
 
 Outside academic commitments, I enjoy reading, watching movies, and film photography. My outdoor hobbies include running, pickleball, and scenic walks to shoot some film.
+
+![alt text](path to cartagenaonfilm.jpg)
+Tierra Bomba Island, Cartagena, Colombia. June 2024.
