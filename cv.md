@@ -6,7 +6,7 @@ layout: page
 title: CV
 permalink: /CV/
 ---
-View my CV here (link)
+View my CV [here](https://docs.google.com/document/d/1dGnEyww8Jf2GfFzap0LkjCyaIRGsCMblpnX_i5tkRvg/edit?usp=sharing)
 
 I am a graduate student in the Latin American and Iberian Studies Master’s program at the University of California, Santa Barbara. I am a teaching assistant for the undergraduate, lower-division course titled Introduction to Latin American and Iberian Studies. I was previously a teaching assistant for HIST 8B in the History Department, Latin American History: Independence and the National Period. I also participated in the CITRAL Community of Practice for Graduate Students: Course Design for Equity in their two-quarter program during the 2023-2024 academic school year, where I honed my skills integrating ideals of anti-racism and equity into the classroom. I was also part of the UCSB Engaging Humanities Foundational Course Redesign Initiative for HIST 8B with a professor and a team of graduate student assistants to create engaging pedagogical materials and enhance student participation to align with course objectives.
 
