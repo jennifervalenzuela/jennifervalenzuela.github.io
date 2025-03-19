@@ -45,7 +45,6 @@ On August 28th, 2005, the Memorial of El Ojo que Llora (The Eye that Cries) was 
 In its first two years, the monument faced two significant controversies, The first involved a ruling by the Inter-American Court of Human Rights (CIDH) in the case of Miguel Castro Castro Prison v. Peru. This case addressed the extrajudicial killing of 42 members of the Shining Path by state forces. It recommended that these ‘victims’ be memorialized as a form of compensation, suggesting their inclusion in the monument. The second controversy arose in 2007 when the monument was vandalized following the extradition and trial of Alberto Fujimori, who was president during the Miguel Castro Castro's prison raid. These two major controversies marked the beginning of a series of attacks against the monument over the next eighteen years.
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSCrQ17Gt2ddLC6syJsOZOR6i9hvKy0NEhfskk45J53Tu4ukDu1F8y7Q8-mv8xGqmhlI0itBjeP3giM/pubhtml?widget=true&amp;headers=false"></iframe>
-
 >This timeline details the date of the attack and the kind of aggression made against it.
 
 # The ANFASEP's Museum of Memory
