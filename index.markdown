@@ -4,6 +4,6 @@
 
 layout: home
 ---
-<img src="profilepicture.JPG" alt="profile picture" style="width:600px;height:400px;">
+<img src="profilepicture.JPG" alt="profile picture" style="width:700px;height:300px;">
 
 Hello! My name is Jennifer Valenzuela. Welcome to my website :)
