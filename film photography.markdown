@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Film Photography
-Permalink: /Film Photography/
+title: Film 
+Permalink: /Film/
 ---
 Under construction
 
