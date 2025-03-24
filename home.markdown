@@ -4,6 +4,6 @@
 
 layout: home
 ---
-![alt text](profilepicture.JPG)
+<img src="profilepicture.jpg" style="width:300px;height:400px;">
 
 Hello! My name is Jennifer Valenzuela. Welcome to my website :)
